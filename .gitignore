@@ -1,0 +1,3 @@
+node_mudules/
+*-lock.json
+.env
